@@ -21,3 +21,7 @@ end
 def length_of_string(words)
   return words.length
 end
+
+def add_string_as_number(first_number, second_number)
+  return first_number.to_i + second_number.to_i
+end
